@@ -12,7 +12,7 @@
     "canvas": "2.7.0",
     "cross-env": "^7.0.3",
     "dateformat": "4.5.1",
-    "discord-giveaways": "^4.4.3",
+    "discord-giveaways": "^5.0.1",
     "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.3.0",
